@@ -1,0 +1,4 @@
+[25-Jun-2017 00:42:22 Asia/Kolkata] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/macle/public_html/ABCD/dbcontroller.php on line 16
+[25-Jun-2017 00:42:22 Asia/Kolkata] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/macle/public_html/ABCD/dbcontroller.php on line 25
+[25-Jun-2017 00:42:22 Asia/Kolkata] PHP Warning:  mysql_query(): A link to the server could not be established in /home/macle/public_html/ABCD/dbcontroller.php on line 25
+[25-Jun-2017 00:42:22 Asia/Kolkata] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/macle/public_html/ABCD/dbcontroller.php on line 26
